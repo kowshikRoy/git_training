@@ -1,7 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-This is the changed now, different from the previous
-Third line in master
-=======
 Ha Ha Ha, I can update in github
->>>>>>> 543aad3fc083908373bd4a6d4d316e5bee14339d
